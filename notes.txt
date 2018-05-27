@@ -1,0 +1,13 @@
+$('#element').text();
+$('#element').html();
+
+$('#element').html(); //getter 
+$('#element').html("<p>I am setting this HTML!</p>"); //setter
+
+
+
+Using Events with Dynamically Added Elements
+
+event delegation: attach an event listener to a parent element taht fires when an event occurs ona child element
+
+This is called event propagation. 
