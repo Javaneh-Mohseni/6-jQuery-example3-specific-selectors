@@ -1,3 +1,6 @@
+Notes just for myself
+on my computer, this project is named project 20-jquery-specific selectors
+
 $('#element').text();
 $('#element').html();
 
